@@ -1,0 +1,17 @@
+*, body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gotham';
+
+}
+button::-moz-focus-inner { margin:0; padding:0}
+
+*, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gotham Book';
+}
+
+@font-face {font-family: "Gotham Book"; src: url("//db.onlinewebfonts.com/t/924ee4158324c02e3e0d62e54cafd14f.eot"); src: url("//db.onlinewebfonts.com/t/924ee4158324c02e3e0d62e54cafd14f.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/924ee4158324c02e3e0d62e54cafd14f.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/924ee4158324c02e3e0d62e54cafd14f.woff") format("woff"), url("//db.onlinewebfonts.com/t/924ee4158324c02e3e0d62e54cafd14f.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/924ee4158324c02e3e0d62e54cafd14f.svg#Gotham Book") format("svg"); }
